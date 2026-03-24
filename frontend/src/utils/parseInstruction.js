@@ -10,9 +10,9 @@ const wrap = (children) => (
 export const parseInstruction = (index, chatType) => {
   const base = (
     <p>
-Tú y un/a compañero/a usarán este chat para proponer la mayor cantidad posible de{" "}
-<strong>usos alternativos originales y prácticamente útiles</strong> para un
-objeto cotidiano en <strong>4 minutos</strong>.
+    Tú y un/a compañero/a usarán este chat para proponer la mayor cantidad posible de{" "}
+    <strong>usos alternativos originales y prácticamente útiles</strong>
+    para unobjeto cotidiano en <strong>4 minutos</strong>.
     </p>
   );
 
